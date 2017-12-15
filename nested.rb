@@ -127,5 +127,6 @@ def adding_to_dennis
         }
      }
 		 new_hash = programmer_hash[:dennis_ritchie][:languages][0]
+		 puts "#{new_hash}"
 	return programmer_hash
 end
